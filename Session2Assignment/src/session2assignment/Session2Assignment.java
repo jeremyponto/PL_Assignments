@@ -286,7 +286,7 @@ public class Session2Assignment {
         
         System.out.println(Arrays.toString(array10));
         
-        for(int i = 0; i < array10.length; i++)
+        for(int i = 0; i < array10.length - 1; i++)
         {
             for(int j = i + 1; j < array10.length; j++)
             {
